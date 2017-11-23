@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1369 291" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-282.277,-1995.03)">
+        <g transform="matrix(0.551641,0,0,0.891206,282.277,-841.17)">
+            <g>
+                <rect x="0" y="3182.43" width="2480.32" height="325.444" style="fill:rgb(0,60,83);"/>
+            </g>
+        </g>
+        <g transform="matrix(0.146689,0,0,0.146689,1023.39,1914.48)">
+            <text x="437.778px" y="1753.94px" style="font-family:'NunitoSans-Light', 'Nunito Sans';font-weight:300;font-size:519.814px;fill:white;">I<tspan x="569.811px 866.625px 1041.8px 1320.42px 1499.24px 1777.86px 2029.97px 2205.15px 2325.74px 2592.93px " y="1753.94px 1753.94px 1753.94px 1753.94px 1753.94px 1753.94px 1753.94px 1753.94px 1753.94px 1753.94px ">nteractive</tspan></text>
+        </g>
+        <g transform="matrix(0.146689,0,0,0.146689,339.417,1914.48)">
+            <text x="437.778px" y="1753.94px" style="font-family:'NunitoSans-Light', 'Nunito Sans';font-weight:300;font-size:519.814px;fill:white;">V<tspan x="767.86px 1046.48px 1343.29px 1621.91px 1924.97px 2045.56px 2338.22px 2781.62px 2917.81px " y="1753.94px 1753.94px 1753.94px 1753.94px 1753.94px 1753.94px 1753.94px 1753.94px 1753.94px ">anadium P</tspan>re<tspan x="3704.29px 3957.96px " y="1753.94px 1753.94px ">ss</tspan></text>
+        </g>
+        <g transform="matrix(0.348228,0,0,0.373895,818.595,1615.87)">
+            <path d="M1926.1,1291.76C1926.1,1267.18 1904.67,1247.23 1878.29,1247.23L699.432,1247.23C673.046,1247.23 651.624,1267.18 651.624,1291.76L651.624,1539.4C651.624,1563.98 673.046,1583.93 699.432,1583.93L1878.29,1583.93C1904.67,1583.93 1926.1,1563.98 1926.1,1539.4L1926.1,1291.76Z" style="fill:none;stroke:white;stroke-width:11.53px;"/>
+        </g>
+        <g transform="matrix(0.500598,0,0,0.373895,33.0909,1615.87)">
+            <path d="M1926.1,1291.76C1926.1,1267.18 1911.19,1247.23 1892.84,1247.23L684.88,1247.23C666.526,1247.23 651.624,1267.18 651.624,1291.76L651.624,1539.4C651.624,1563.98 666.526,1583.93 684.88,1583.93L1892.84,1583.93C1911.19,1583.93 1926.1,1563.98 1926.1,1539.4L1926.1,1291.76Z" style="fill:none;stroke:white;stroke-width:9.43px;"/>
+        </g>
+    </g>
+</svg>
